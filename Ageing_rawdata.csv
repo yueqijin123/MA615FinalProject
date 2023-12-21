@@ -1,0 +1,352 @@
+﻿Country,Tonga
+
+"Section I: Demographic indicators"
+
+"1. Key population indicators, 2023[1]"
+Indicators,Value
+"Population age 60+ (thousands)",10
+"Population aged 60+ (% of total population)",9.1
+"Percentage of women out of the population aged 60+",54.9
+"Percentage of women out of the population aged 80+",59.3
+"Life expectancy at birth (years)",71.4
+"Median age (years)",21.4
+"Total fertility rate (2023)",3.2
+
+
+"2. Population by age group, selected years[2]"
+Thousands
+Age,1950,1990,2020,2023,2030,2050
+0-14,22,40,37,37,36,36
+15-64,25,55,62,64,70,82
+60+,3,7,9,10,12,17
+65+,2,4,7,7,8,13
+80+,0,1,1,1,1,3
+Total,50,99,105,108,114,131
+
+Percentage
+Age,1950,1990,2020,2023,2030,2050
+0-14,44.4,40.2,35.1,34.0,31.5,27.7
+15-64,51.0,55.3,58.7,59.8,61.7,62.7
+60+,6.3,6.9,8.9,9.1,10.5,12.9
+65+,4.6,4.5,6.2,6.2,6.8,9.6
+80+,0.8,0.7,1.3,1.3,1.2,2.1
+
+
+"3. Percentage of total population by age group and sex, selected years[1]"
+Year,Sex,"=""0-4""","=""5-9""","=""10-14""",15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85-89,90-94,95-99,100+
+1990,M,7.5,7.1,6.3,5.9,5.5,3.7,2.6,2.1,1.8,1.7,1.6,1.5,1.2,0.9,0.6,0.4,0.2,0.1,0,0,0
+1990,F,6.8,6.6,5.8,5.4,5.1,3.6,2.8,2.4,2.2,1.9,1.7,1.5,1.2,0.9,0.6,0.4,0.2,0.1,0,0,0
+2020,M,6.1,6.2,5.9,5.4,4.2,3.4,2.8,2.7,2.4,2.3,2.3,1.7,1.3,1,0.8,0.5,0.3,0.1,0,0,0
+2020,F,5.7,5.8,5.5,5.2,4.2,3.7,3.2,3.2,2.7,2.5,2.3,1.7,1.4,1.1,0.9,0.6,0.4,0.2,0.1,0,0
+2030,M,5.5,5.4,5.4,5.5,4.9,4.2,3.2,2.7,2.2,2.2,1.9,1.8,1.8,1.2,0.8,0.5,0.3,0.1,0,0,0
+2030,F,5.1,5,5.1,5.1,4.5,4.1,3.2,2.9,2.6,2.7,2.2,2.1,1.9,1.3,1,0.7,0.5,0.2,0.1,0,0
+2050,M,4.7,4.8,4.9,4.7,4.3,3.9,3.7,3.7,3.3,2.8,2.2,1.8,1.4,1.3,1,0.7,0.5,0.2,0,0,0
+2050,F,4.4,4.5,4.5,4.3,3.9,3.6,3.4,3.4,3,2.8,2.3,2.1,1.9,1.9,1.5,1.2,0.8,0.4,0.1,0,0
+
+
+"4. Percentage of male and female population by age, 2023[1]"
+Year,Sex,"=""0-4""","=""5-9""","=""10-14""",15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85-89,90-94,95-99,100+
+2023,M,51.8,51.7,51.8,51,50.6,48.5,47.6,45.4,46.8,47.1,48.7,50.7,47.6,47,44.9,43.1,40.4,38,33.3,27.3,0
+2023,F,48.2,48.3,48.2,49,49.4,51.5,52.4,54.6,53.2,52.9,51.3,49.3,52.4,53,55.1,56.9,59.6,62,66.7,72.7,100
+
+
+"5. Proportion of the total population by broad age group, 1950-2050[1]"
+Year,0-14,15-64,60+,65+,80+
+1950,44.4,51,6.3,4.6,0.8
+1955,45.4,51,5.2,3.5,0.6
+1960,46.4,50.5,4.8,3.1,0.5
+1965,46.9,50,4.7,3,0.4
+1970,47.4,49.6,4.7,3.1,0.4
+1975,46.1,50.7,4.9,3.2,0.5
+1980,43.7,52.8,5.5,3.5,0.5
+1985,41.5,54.5,6.2,4,0.7
+1990,40.2,55.3,6.9,4.5,0.7
+1995,39.8,55.1,7.6,5,0.8
+2000,38.3,56.3,8,5.4,0.9
+2005,38.3,56.1,8.1,5.7,0.9
+2010,37.6,56.7,8.2,5.7,1
+2015,36.8,57.2,8.6,6,1.1
+2020,35.1,58.7,8.9,6.2,1.3
+2025,33.3,60.3,9.3,6.4,1.2
+2030,31.5,61.7,10.5,6.8,1.2
+2035,30.3,61.9,11.2,7.8,1.3
+2040,29.7,61.9,11.8,8.5,1.5
+2045,28.9,62.1,12.5,9,1.7
+2050,27.7,62.7,12.9,9.6,2.1
+
+
+"6. Proportion of population aged 80 years or over as percentage of population aged 65 years or over, 1950-2050[1]"
+Year,"Proportion (%)"
+1950,17.6
+1955,17.9
+1960,15.9
+1965,13.9
+1970,13.6
+1975,14.4
+1980,15.2
+1985,16.7
+1990,15.1
+1995,15.7
+2000,15.9
+2005,16.6
+2010,17.7
+2015,18.8
+2020,20.3
+2025,19
+2030,18
+2035,16.8
+2040,17.2
+2045,18.7
+2050,22
+
+
+"7. Median age of the total population, 1950-2050[1]"
+Year,"Age (years)"
+1950,16.5
+1955,16.1
+1960,15.7
+1965,15.4
+1970,15.1
+1975,15.6
+1980,16.5
+1985,17.1
+1990,18.3
+1995,18.6
+2000,19.3
+2005,19.8
+2010,20.1
+2015,20.7
+2020,21.4
+2025,22.2
+2030,23.2
+2035,24.1
+2040,25.3
+2045,26.3
+2050,27.3
+
+
+"8. Life expectancy at birth, male and female, 1950-2050[1]"
+Year,M,F
+1950,52,56.3
+1955,54,58.7
+1960,55.9,61
+1965,57.8,63.9
+1970,60,67.2
+1975,61.3,69.2
+1980,62.5,70.3
+1985,63.1,70.8
+1990,63.8,71.4
+1995,64.7,72.2
+2000,65.7,72.8
+2005,66.8,73.1
+2010,67.6,73.4
+2015,67.9,73.5
+2020,68.3,73.7
+2025,68.9,74.6
+2030,69.4,75.3
+2035,70,76
+2040,70.6,76.7
+2045,71.2,77.4
+2050,71.9,78.1
+
+
+"9. Potential old-age support ratio (ages 20-64/age 65+), 1950-2050[1]"
+Year,Ratio
+1950,8.8
+1955,11.5
+1960,13.1
+1965,13.1
+1970,12.8
+1975,12.4
+1980,11.7
+1985,10.2
+1990,9.8
+1995,8.8
+2000,8.4
+2005,8.1
+2010,8.1
+2015,7.9
+2020,7.8
+2025,7.8
+2030,7.5
+2035,6.7
+2040,6.2
+2045,5.9
+2050,5.6
+
+
+"10. Speed of ageing (Number of years required or expected for percentage of population aged 64 and over to rise from 7 per cent to 14 per cent)[1,2]"
+Country,From,To
+France,1865,1980
+Sweden,1890,1975
+"United States of America",1944,2013
+Canada,1944,2009
+Spain,1947,1992
+"Republic of Korea",1998,2017
+Tonga,2027,2073
+
+
+"11. Life expectancy at birth (both sexes), and total fertility rate, 1990-2050[1]"
+Year,"Fertility Rate","Life Expectancy"
+1990,4.644,67.294
+1991,4.612,67.518
+1992,4.583,67.686
+1993,4.547,67.855
+1994,4.501,68.014
+1995,4.447,68.17
+1996,4.433,68.323
+1997,4.369,68.49
+1998,4.328,68.642
+1999,4.203,68.809
+2000,4.108,68.978
+2001,4.072,69.127
+2002,4.137,69.335
+2003,4.194,69.495
+2004,4.206,69.67
+2005,4.179,69.768
+2006,4.141,69.894
+2007,4.093,70.048
+2008,4.027,70.164
+2009,3.955,70.012
+2010,3.889,70.323
+2011,3.842,70.381
+2012,3.781,70.442
+2013,3.707,70.505
+2014,3.635,70.54
+2015,3.562,70.607
+2016,3.483,70.661
+2017,3.407,70.713
+2018,3.349,70.779
+2019,3.315,70.871
+2020,3.267,70.928
+2021,3.237,70.986
+2022,3.193,71.27
+2023,3.153,71.41
+2024,3.132,71.545
+2025,3.098,71.685
+2026,3.054,71.82
+2027,3.022,71.956
+2028,2.998,72.087
+2029,2.973,72.216
+2030,2.942,72.358
+2031,2.916,72.491
+2032,2.901,72.624
+2033,2.874,72.763
+2034,2.856,72.907
+2035,2.827,73.039
+2036,2.801,73.171
+2037,2.777,73.308
+2038,2.747,73.446
+2039,2.737,73.59
+2040,2.713,73.722
+2041,2.688,73.861
+2042,2.67,73.999
+2043,2.642,74.138
+2044,2.624,74.269
+2045,2.6,74.404
+2046,2.575,74.534
+2047,2.562,74.667
+2048,2.553,74.807
+2049,2.537,74.945
+2050,2.522,75.076
+
+
+"Section II: Employment and social protection"
+
+Description,Both,Male,Female
+"12. Labour force participation rate of people aged 65 years or over, percentage, latest available year[3]",37.8,50,29.3
+"13. Percentage of older persons covered by social protection systems including floors (SDG 1.3.1), 2020 or latest available year[4]",90,,
+"14. Legal coverage of contributory mandatory pensions, total, female, male (percentage of working-age population), 2020 or latest available year[4]",n.a.,n.a.,n.a.
+"15. Informal employment rate of 65+ (percentage of informal employment out of total employment in that age group)2021[3]",98.2,98,98.5
+
+
+"Section III: Health"
+
+"16. Life expectancy (LE) versus healthy life expectancy (HALE) at age 60, both sexes, most recent years[5]"
+Year,"LE Both sexes"
+2000,17.1
+2010,17.8
+2015,18
+2019,18.2
+
+
+"17. Life expectancy (LE) versus healthy life expectancy (HALE) at age 60, male and female, most recent years[5]"
+Year,"LE Female","LE Male"
+2000,19.4,15.2
+2010,19.9,15.9
+2015,20,16.1
+2019,20.1,16.3
+
+
+"18. Out-of-pocket health expenditure as percentage of current health expenditure (CHE), latest available years[5]"
+Year,Percentage
+2000,14.5
+2001,12.1
+2002,12.4
+2003,12.8
+2004,10
+2005,10.6
+2006,7.9
+2007,9.8
+2008,7.5
+2009,11.5
+2010,8.5
+2011,9.6
+2012,6.9
+2013,8.5
+2014,6.3
+2015,6.7
+2016,5.4
+2017,5.3
+2018,5.6
+2019,5.4
+2020,5
+
+
+"19. Suicide rate, per 100,000 population, by sex and age group, latest available year 2019[5]"
+Sex,"=""15-24""",25-34,35-44,45-54,55-64,65-74,75-84,85+
+"Both sexes",5.9,5.5,5,4.3,6.4,7.5,10.2,19.9
+Female,3.7,3.2,3,2.8,5.1,5.6,7.9,11.4
+Male,8,8,7.1,5.9,7.8,9.8,13,31.5
+
+
+Description,Both,Male,Female
+"20. Dementia physician density, per 1,000 population, latest available year[5]","2.8 persons",,
+"21. Total expenditure on social protection (excluding health), percentage, 2020 or latest available year[4]",1.1,,
+
+
+"Section IV: Living arrangements"
+
+"22. Household living arrangements of people aged 65 years or over, latest available years[6]"
+Source:,MICS
+"Living Arrangements",2019
+"One person",5.8
+"Couple only",6
+"Couple with children",4
+"Single parent with children",5.3
+"Extended family",75.6
+"Non relatives",3.2
+Unknown,0
+"Average household size (number of members)",5.8
+
+
+"23. Literacy rate of older persons age 65 years or over, percentage, latest available year 2018[7]"
+Sex,Percentage
+"Both sexes (of 65+ total population)",99.2
+"Male (of 65+ male population)",99.1
+"Female (of 65+ female population)",99.3
+
+
+"24. Internet users, as a percentage of their age group, latest available years[8]"
+
+
+
+Footnote
+"[1] United Nations, Department of Economic and Social Affairs, Population Division (2022). World Population Prospects 2022, Online Edition."
+"[2] Kinsella, Kevin and Wan He (2009). “An Aging World: 2008”. International Population Reports, Issued June 2009: U.S. Department of Health and Human Services and U.S. Department of Commerce. Available at https://www.census.gov/prod/2009pubs/p95-09-1.pdf"
+"[3] International Labour Organization, ILOSTAT Data. Available at https://ilostat.ilo.org/data/ (accessed on 3 March 2023)."
+"[4] World Social Protection Data Dashboards. Available at https://www.social-protection.org (accessed on 3 March 2023)."
+"[5] World Health Organization, Global Health Observatory data repository. Available at https://www.who.int/data/gho (accessed on 3 March 2023)."
+"[6] United Nations, Department of Economic and Social Affairs, Population Division (2022). Database on the Households and Living Arrangements of Older Persons 2022. Available at https://www.un.org/development/desa/pd/data/living-arrangements-older-persons (accessed on 3 March 2023)."
+"[7] World Bank, Databank. Available at https://databank.worldbank.org/ (accessed on 3 March 2023)."
+"[8] ITU (2022). ITU, Digital Development Dashboard. Available at https://www.itu.int/en/ITU-D/Statistics/Dashboards/Pages/Digital-Development.aspx (accessed on 20 Februry 2023)."
